@@ -1,5 +1,4 @@
-# Project-1
-Group 2: Analyzing the Trends of Medal Winners from the Summer Olympics (1976 - 2008). 04/24/2021.
+# Project 1 Group 2: Analyzing the Trends of Medal Winners from the Summer Olympics (1976 - 2008). 04/24/2021.
 
 Uses Python, Pandas, Matplotlib, NumPy, SciPy, Jupyter Notebook.
 
